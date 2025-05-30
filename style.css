@@ -1,0 +1,22 @@
+header{
+    height: 5rem;
+    background-color: lightcoral;
+}
+.titlebar{
+    height: 50%;
+    outline: 2px solid blue;
+    display: flex;
+    align-items: center;
+}
+.title-img{
+    height: 60%;
+    margin-left: 1rem;
+}
+.title{
+    font-size: 1rem;
+}
+
+
+.menu-bar{
+    
+}
