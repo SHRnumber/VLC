@@ -9,7 +9,7 @@ A lightweight web-based media player inspired by VLC, with playback controls, sp
 🔗 [View Live Demo](https://capable-jelly-134c81.netlify.app)
 
 ## GitHub Repository
-💻 [View Source Code](https://github.com/Hamza Rashid/vlc-web-player)  
+💻 [View Source Code](https://github.com/SHRnumber/vlc-web-player)  
 
 ## Features
 
