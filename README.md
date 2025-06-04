@@ -43,7 +43,7 @@ A lightweight web-based media player inspired by VLC, with playback controls, sp
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Hamza Rashid/vlc-web-player.git
+git clone https://github.com/SHRnumber/vlc-web-player.git
 ```
 
 2. Open in browser:
