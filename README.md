@@ -8,8 +8,6 @@ A lightweight web-based media player inspired by VLC, with playback controls, sp
 ## Live Demo
 🔗 [View Live Demo](https://capable-jelly-134c81.netlify.app)
 
-## GitHub Repository
-💻 [View Source Code](https://github.com/SHRnumber/vlc-web-player)  
 
 ## Features
 
@@ -41,12 +39,7 @@ A lightweight web-based media player inspired by VLC, with playback controls, sp
 
 ## Setup Instructions
 
-1. Clone the repository:
-```bash
-git clone https://github.com/SHRnumber/vlc-web-player.git
-```
-
-2. Open in browser:
+1. Open in browser:
 - Option 1: Run a local server (recommended):
   ```bash
   npx live-server
