@@ -4,9 +4,8 @@ Here is a complete **GitHub README.md** for your **VLC Web Player**, written in 
 
 # 🎬 VLC Web Player
 
-**📸 Screenshot:** `Screenshot 2025-06-04 180559`
+**📸 Screenshot:** ![Screenshot 2025-06-04 180559](https://github.com/user-attachments/assets/6d215390-e31f-4ec3-8dec-dd9661b3da04) ---
 
----
 
 ## 🧭 Overview
 
